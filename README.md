@@ -1,10 +1,3 @@
-# AI  
-深層学習ライブラリ。次のライブラリをpipなどで導入してください
-* chainer:ニューラルネットの構成・計算などを行う  
-* gym:機械学習のenvironment（問題みたいなもの）が多く存在。(DeepLearningで使用)  
-* matplotlib:損失関数のグラフを描画するのに使用  
-* BeautifulSoup:スクレイピングするのに使用  
-* opencv:画像処理、画像認識などのライブラリ  
 ## DeepLearning  
 深層学習+強化学習のアルゴリズムDQN,A3Cなどを実装しました。このライブラリを使ってcartpole問題を解いたサンプルコードはcartpoleフォルダに入っています。  
 * DQNについて  
